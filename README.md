@@ -9,4 +9,4 @@
 
 ### Best viewed as a flipbook in your browser
 - Install https://github.com/dearhive/dearflip-js-flipbook
-- Open wgf.pdf in your browser
+- Download and open wgf.pdf in your browser
